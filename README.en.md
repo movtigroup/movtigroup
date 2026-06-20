@@ -1,5 +1,5 @@
 # MOVTIGROUP Website Template
-
+[English](README.en.md) | [فارسی](README.md)
 This repository contains the main website template for **MOVTIGROUP**. Its purpose is to showcase and document the visual design and layout of the website, representing the company’s visual identity. Note that the operational code and backend logic are stored privately in a separate repository.
 
 **GitHub Repository:** [https://github.com/movtigroup/movtigroup/](https://github.com/movtigroup/movtigroup/)
@@ -27,6 +27,4 @@ Feel free to review the files in this repository to explore the visual design an
 
 ## Contact
 
-- **Email:** [info@movtigroup.ir](mailto:info@movtigroup.ir)
-- **Website:** [movtigroup.ir](https://movtigroup.ir)
-- **GitHub:** [https://github.com/movtigroup/movtigroup/](https://github.com/movtigroup/movtigroup/)
+- **GitHub:** [https://github.com/movtigroup/](https://github.com/movtigroup/)
