@@ -1,4 +1,5 @@
 # قالب وب‌سایت MOVTIGROUP
+[English](README.en.md) | [فارسی](README.md)
 
 این مخزن شامل قالب اصلی وب‌سایت شرکت **MOVTIGROUP** است. هدف از ارائه این مخزن، نمایش و مستندسازی طراحی ظاهری و ساختار صفحات جهت ارائه‌ی هویت بصری شرکت می‌باشد. لازم به ذکر است که کدهای عملکردی و منطق پشت وب‌سایت به صورت خصوصی در مخزن مجزا نگهداری می‌شوند.
 
@@ -27,6 +28,4 @@
 
 ## ارتباط با ما
 
-- **ایمیل:** [info@movtigroup.ir](mailto:info@movtigroup.ir)
-- **وب‌سایت:** [movtigroup.ir](https://movtigroup.ir)
-- **گیت هاب:** [https://github.com/movtigroup/movtigroup/](https://github.com/movtigroup/movtigroup/)
+[https://github.com/movtigroup/](https://github.com/movtigroup/)
