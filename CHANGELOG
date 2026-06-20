@@ -1,1 +1,31 @@
+# Changelog
 
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+### Added
+- Initial repository structure with comprehensive documentation
+- Bilingual support (Persian/Farsi and English)
+- Comprehensive .gitignore for web projects
+- .dockerignore for containerized deployments
+- GitHub Actions workflow for Jekyll-based GitHub Pages deployment
+- FUNDING.yml with sponsorship links
+
+### Changed
+- Updated README.md and README.en.md with comprehensive project information
+- Enhanced AGENTS.md with detailed AI assistant guidelines
+
+### Fixed
+- N/A
+
+## [1.0.0] - 2025-01-01
+
+### Added
+- Initial release of MOVTIGROUP website template
+- Core visual design components
+- Responsive layout system
+- MIT License
